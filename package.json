@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/UsamiHaruuu/Team-FireFly/issues"
   },
-  "homepage": "https://github.com/UsamiHaruuu/Team-FireFly#readme"
+  "homepage": "https://github.com/UsamiHaruuu/Team-FireFly#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.9.0"
+  }
 }
